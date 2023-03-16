@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Shanks",
+      "email": "akagami.shanks@gmail.com",
+      "password": "mugiwaranoshanks",
+      "id": 2
+    },
+    {
+      "name": "Gol D. Roger",
+      "email": "roger.king@gmail.com",
+      "password": "pirateking",
+      "id": 3
+    },
+    {
+      "name": "Monkey D. Dragon",
+      "email": "dragon.monkey@gmail.com",
+      "password": "stopgovernment",
+      "id": 4
+    }
+  ]
+}
